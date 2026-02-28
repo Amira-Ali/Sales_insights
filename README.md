@@ -12,6 +12,7 @@ Power BI sales dashboard providing internet sales insights for a business owner,
 
 **Sales Overview**
 ![Sales Overview](sales_overview.png)
+![Sales Overview](sales_overview.png)
 
 **Sales by Customers**
 ![Sales by Customers](sales_by_customers.png)
