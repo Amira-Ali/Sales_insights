@@ -11,7 +11,7 @@ Power BI sales dashboard providing internet sales insights for a business owner,
 ## 📊 Dashboard Pages
 
 **Sales Overview**
-![Sales Overview](https://raw.githubusercontent.com/Amira-Ali/Sales_insights/main/sales_overview.png)
+![Sales Overview](https://github.com/Amira-Ali/Sales_insights/blob/main/sales%20overview.png)
 
 **Sales by Customers**
 ![Sales by Customers](https://raw.githubusercontent.com/Amira-Ali/Sales_insights/main/sales_by_customers.png)
