@@ -11,16 +11,13 @@ Power BI sales dashboard providing internet sales insights for a business owner,
 ## 📊 Dashboard Pages
 
 **Sales Overview**
-![Sales Overview](sales_overview.png)
-![Sales Overview](sales_overview.png)
+![Sales Overview](https://raw.githubusercontent.com/Amira-Ali/Sales_insights/main/sales_overview.png)
 
 **Sales by Customers**
-![Sales by Customers](sales_by_customers.png)
+![Sales by Customers](https://raw.githubusercontent.com/Amira-Ali/Sales_insights/main/sales_by_customers.png)
 
 **Sales by Products**
-![Sales by Products](sales_by_products.png)
-
----
+![Sales by Products](https://raw.githubusercontent.com/Amira-Ali/Sales_insights/main/sales_by_products.png)
 
 ## 🔗 Live Dashboard
 [View on Power BI](https://app.powerbi.com/links/Yugs1wefWC?ctid=84008d0f-90f6-4e21-b588-403ad5bfdd2f&pbi_source=linkShare)
